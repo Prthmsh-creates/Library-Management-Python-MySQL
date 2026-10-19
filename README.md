@@ -10,11 +10,7 @@ This is an intermediate project which is a user-friendly library management syst
 - View listed books
 - Issue books to students/anyone
 - Return books
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-> Output:
-
-<center><img src = "https://user-images.githubusercontent.com/86551444/141800135-68801eeb-3dff-4808-b700-f1e0ce6758af.PNG"/></center>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
